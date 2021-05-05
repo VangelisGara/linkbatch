@@ -1,0 +1,18 @@
+.Logo {
+   margin-top: 50px;
+}
+
+.Logo > img {
+   width: 70px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+.Logo > h2 {
+   font-family: "Audiowide", cursive;
+   color: lavenderblush;
+}
+
+.Logo > h3 {
+   font-family: "Audiowide", cursive;
+   color: lavenderblush;
+}
